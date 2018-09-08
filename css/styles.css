@@ -82,7 +82,7 @@ li
 {
     background-color: black;
 }
-
+/* Footer pictures */
 #menu
 {
     background-image: url( http://munsellb.people.cofc.edu/csci215/l01/imgs/ourMenu.png );
@@ -93,7 +93,7 @@ li
     margin-left: 20px;
     float: left;
 }
-
+/* footer address */
 #address
 {
     float: right;
